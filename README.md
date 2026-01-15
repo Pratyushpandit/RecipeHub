@@ -1,4 +1,3 @@
-```markdown
 # RecipeHub 🍳  
 **A Dynamic Personal Recipe Management System**
 
